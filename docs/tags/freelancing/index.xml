@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freelancing on Pietro Grandinetti Personal Website</title>
+    <link>https://pete.world/tags/freelancing/</link>
+    <description>Recent content in freelancing on Pietro Grandinetti Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pete.world/tags/freelancing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Freelancer Journey</title>
+      <link>https://pete.world/post/journey/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pete.world/post/journey/</guid>
+      <description>I was 23 when I heard the word freelancer the first time. I became fascinated with it, and in the following three years I devoted a great deal of energy and passion towards becoming a freelancer.
+I believe I was able to hit some pretty good milestones, but I also hit some very hard walls along the way. I want now to describe in detail the actions I took from the day I decided to become a freelancer, till the day I stopped.</description>
+    </item>
+    
+  </channel>
+</rss>

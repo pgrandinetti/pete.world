@@ -1,17 +1,17 @@
 baseURL = "https://pete.world"
 languageCode = "en-us"
-title = "Pete's World"
-#description = "Independent research, engineering, data-science, machine-learning"
+title = "Pietro Grandinetti Personal Website"
+description = "Random steps of a lifelong learner"
 
 
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-pygmentsStyle = "trac"
-pygmentsUseClasses = true
+#pygmentsUseClasses = true
 pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
+#pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "pygments"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
@@ -22,10 +22,10 @@ relativeURLs=true
 math = true
 
 [Params]
-  homeTitle = "Recent Articles" # Set a different text for the header on the home page
-  description = "Random thoughts of a lifelong learner"
-#  subtitle = "Nuts and bolts of Programming Languages"
-  mainSections = ["learningweek","post","posts"]
+  homeTitle = "Hi!" # Set a different text for the header on the home page
+  #description = "Random steps of a lifelong learner"
+  #subtitle = "Random steps of a lifelong learner"
+  mainSections = ["post","page"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
   #favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -88,5 +88,20 @@ math = true
 
 [[menu.main]]
     name = "About"
-    url = "https://linkedin.com/in/grandinettpietro"
+    url = "page/about"
+    weight = 2
+
+[[menu.main]]
+    name = "Writings"
+    url = "post/"
     weight = 1
+
+#[[menu.main]]
+#    name = "Quarterly"
+#    url = "tags/quarterly/"
+#    weight = 3
+
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/pgrandinetti"
+    weight = 4

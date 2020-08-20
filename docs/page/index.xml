@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pietro Grandinetti Personal Website</title>
+    <link>https://pete.world/page/</link>
+    <description>Recent content in Pages on Pietro Grandinetti Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pete.world/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://pete.world/page/about/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pete.world/page/about/</guid>
+      <description>Hi, Pete here. Lifelong learning and outdoor sport is what I do.
+I wasn&amp;rsquo;t a big fan of blogs until I realized that I needed one. I write here, though, primarily for me. To be sure, I am happy if I can help somebody else too, but the writing is for me. I need to see what&amp;rsquo;s that I actually know, and to put concepts in writing is the best way to really understand what things I did, what I didn&amp;rsquo;t, and what I missed because I didn&amp;rsquo;t even know about them.</description>
+    </item>
+    
+  </channel>
+</rss>

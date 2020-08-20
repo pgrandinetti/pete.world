@@ -1,0 +1,363 @@
+---
+draft: false
+title: "My Freelancer Journey"
+date: 2020-07-15
+description: "This essay tells the story of my freelancer career rise and fall."
+tags: ["essays", "freelancing"]
+---
+
+I was 23 when I heard the word _freelancer_ the first time. I became fascinated with it, and in the following three years I devoted a great deal of energy and passion towards becoming a freelancer.
+
+I believe I was able to hit some pretty good milestones, but I also hit some very hard walls along the way. I want now to describe in detail the actions I took from the day I decided to become a freelancer, till the day I stopped. The motivation to retrace my steps is twofold. For myself: as always with writing, putting abstract thoughts in written words improves the understanding of my own mistakes. For others: if you want to pursue a career as a freelancer, and if there's any patterns in my actions, or reproducible steps in my decisions, then you will find it here.
+
+I think it's also very useful to keep track of the timeline, to get a sense of how much time it took me to go "from zero to hero". Even though I don't recall the exact dates, I do remember months and years of every key moment-- and that's what I will provide.
+
+This article is not a how-to guide. This is a story. It's the story of how things worked out (well) for me. I don't know if it would work out the same for someone else, whether they follow the same path or not. But I really believe that an accurate, time-oriented description can give a good understanding of the key elements to succeed.
+
+I also want to state one point beforehand: there's no shortcut. Distrust sources that speak of easy ways to get there (wherever _there_ is). In my experience the required elements are motivation and patience. I will elaborate more on these two factors in a minute.
+
+## Towards the end of 2015
+
+At that time I was full-time employed with the largest research institute in France, and working on my PhD thesis (2014-2017). End of 2015 meant I had been there for about one year and half, and, quite honestly, I was bored.
+
+That day I was having a coffee with a friend in the cafeteria of the office. Probably the most important coffee break of my life.
+
+This friend shared with me that he was using UpWork and offering freelance services through that platform. I was really surprised: I had always thought that scientists (like him and myself) did not have a market in freelancing. I was convinced that web development was the most sought skill. And I believed that, in any case, companies looking for freelancers didn't really have time, nor money, to spend in R&D. I also thought that the same companies looked very suspiciously at researchers and scientists, preferring "developers".
+
+I was partially wrong. My friend explained that there's a lot of possibilities for scientists who are willing to get out of their comfort zone and blend their analytical skills with development and communication skills.
+
+My friend was already "top-rated" on UpWork (it's a badge that the platform assigns to your profile), and earning a decent side income thanks to it. Thus, I had the concrete proof in front of me that freelancing could work.
+
+Freelancing in itself was a very fuzzy concept in my mind, before that chat. I looked at it as a door towards personal and professional freedom. On the practical level, I associated it with software development, which I didn't mind. My BSc is in software engineering and I enjoy building software. I enjoy even more scientific applications of software technology, and luckily that's what I was able to build my career around.
+
+I was also convinced that initial work as a developer would've been useful to build a reputation. I always had the plan to leverage the initial reputation built as a developer to then find more "elite" jobs. This idea proved to be a very good one.
+
+## That same day in 2015
+
+Once I got home after work, I registered an account in UpWork.
+
+I didn't know anything about rates. Actually, my ideas about that were all plain wrong. I was under the false impression that, since I already had a BSc and a MSc, I could charge quite high for every hour.
+
+I spent some time in the following weeks trying to find jobs in UpWork that would fit my expectations, in terms of compensation, scope of work, and time requirements (don't forget I was full-time employed already).
+
+None. That's what I found: none. And it didn't take long before I understood that the problems lied in my expectations.
+
+## End of February, 2016
+
+I got a gig!
+
+How did that happen?
+
+First of all, I changed my expectations. I learned the hard way that there was no shortcut.
+
+I stopped looking at the rates, and made it my top-priority to get a gig. _Any_ gig. I just wanted to get the ball rolling, nothing more.
+
+Thus, I started looking for any type of opportunity on UpWork. I applied to many, and didn't get any reply.
+
+Then, one day I got a request (it means that I didn't apply for the job, the client reached out to me directly). I looked at the job description and... it was just very silly. As of today I am still wondering if it was a high-school assignment.
+
+Anyway, I had stopped being picky so I accepted it. Despite the simplicity of the task, I gave it all my best. I wrote the best code I could. I wrote the best report I could. The whole job was paid $15 but I didn't care, and I worked like if it was $15K.
+
+I completed the milestones, got paid and received great feedback from this client. The feedback appeared on my profile, and I was very satisfied. Finally the ball was rolling.
+
+## Interlude I
+
+This is a good time to circle back to my initial comment on motivation and patience. Why are they so important?
+
+I really believe that it all starts with a mission. What is your mission as a freelancer? Once you're clear on that, you have some chance of success. Until you're not, I bet you won't go very far. As a freelancer, you don't have the protection of your team or your company when things go south (and they will, once in a while, repeatedly). You are responsible for yourself, and if you don't even know what you're fighting for, or where you're going, then the whole journey becomes pointless and the difficult moments unbearable.
+
+Once you know your mission, then you have to find motivation and patience. Once you have these two, everything else will go to the right place.
+
+Let's speak more concretely now.
+
+Becoming a freelancer requires several sacrifices, initially. Many of them are mental sacrifices (due to the fact that western culture teaches us to get a stable job and keep it until retirement), others are practical and, I dare to say, more real.
+
+Typically, it's about money, time, or both.
+
+Let me speak about time first, as this was my problem when I started. With a full-time job, I really didn't have much time to spend on building a reputation as a freelancer. Yet, I had made my mind about it because I knew what I was chasing: freedom. Thus, I had scheduled 45 minutes every evening after work to search through job posts for freelancers. It took a lot of motivation to stick to this plan for several weeks when all I found was...Nothing! Still, I didn't miss any of those 45 minutes appointments with myself.
+
+And once I got the first gig, it really took a lot of patience to work on it during the weekend, and work on it thoroughly, despite the lowest of the rates. Here again, I knew what I was going after: reputation to enable my career. I knew I didn't want to have anymore an employer whose reputation would also be (partially) mine. I wanted to be out in the wild on my own. And such care for my reputation made it easy for me to decline the first serious offer I received, because I knew I couldn't give my best at that time (you will read about this in the next section).
+
+I was deeply convinced of these two factors, but I also believe this subject it's not as clear-cut for many people. Thus, ask yourself if you really want to give up the protective shell of a "normal" job (and everything good and bad around it, security, retirement, health, time wasted, etc.). And if the answer is not, stop lying to yourself and be happy with your job; freelancing is not for everybody, and there's no reason why it should. But if the answer is yes, then keep reading!
+
+If you are in a time-crunch, then I think you can follow my same course of action for a couple of months and see how it goes.
+
+The other big topic is money. Many who say they want to try freelancing are rightfully afraid of not being able to even survive the first few months without money.
+
+I guess my point here is...there's so much literature on this subject! If this is your situation, educate yourself on income management for freelancers (which sounds like a good google keyword) and find what you really want to pursue, or become.
+
+But now comes the most important part: once you find what you want to pursue, **you have to stick with it long enough**.
+
+Let's discuss a concrete case, once again.
+
+Let's say you're chasing freedom, but freedom doesn't pay the bills, so you need money as well.
+
+Now, if on each given period of time, say one month, you keep taking freelance projects no matter what, just for the sake of money, then what's the point? You become a slave of your own freelance job-- can you see the contradiction?
+
+Here is my suggestion. Take a period of three months. At the beginning of it, write on a piece of paper how much money you need to make in the next three months. Be honest with yourself! Attach it on a wall next to your work desk. Keep track of your income, of course. Once you reach that figure, STOP. Power off your laptop and don't accept paid projects anymore, till the end of those three months. Unless your goal as a freelancer is to sit at your desk 50 hours a week to work for other people. Wait, wasn't that the same you were doing as an employee?
+
+Again, can you see the contradiction? Be sure you know what your short and long-term goals are. Of course, if you need a lot of money in a given period (things happen in life), then you are entitled to work as much as you need. But the important thing is that you write down that number beforehand, and stop when you reach it.
+
+And, just to be clear, if you live with the fear that in the next three months there won't be any paid projects, so better to get a lot of projects right now...then freelancing is not for you. A stable paycheck is what you're looking for. Be honest with yourself!
+
+The right choice of time frame (I recommend two or three months, six tops), along with a honest understanding of how much money you need, will help you improve your schedule and organization. If you fail your economic goal in a three months slot, you can carry over what's left to the next slot (or maybe you don't actually need that and can take more time off?!). Still, if it ever goes to zero, you have to take the rest of the time for yourself.
+
+Now, back to the story.
+
+
+## March through June, 2016
+
+All I cared about was to accumulate good clients' feedback on my UpWork profile. My goal was to get the "top-rated" budget, hoping that would change something. I had convinced myself that my previous education and work experience didn't matter. I needed proof of excellent work as a freelancer.
+
+Thus, I accepted a second and then a third, and then a fourth gig. All of them were like my first one: silly and underpaid. The only reason why I accepted them was to get that damn top-rated badge.
+
+I delivered top-notch work and documentation, only to realize that, in UpWork, recurring client's feedback doesn't count towards the freelancer's reputation. I needed to work for different clients.
+
+I was a bit frustrated, but nonetheless I kept my optimism. Again, my friend's example was really important.
+
+Then, one day I got a request from a client for a "real" project. This guy wanted to build a complicated web platform and needed developers.
+
+I was at a serious crossroads. I finally had the chance to get involved on a real project, but on the other hand I knew that my current employment situation didn't allow me to work many hours on a side project.
+
+My long-term goals drove me and made the decision easy. I didn't want to get some quick cash just because and maybe deliver sub-par work. Thus, I openly told the client about my employment and clarified with him that if he hired me then I could only work a few hours with him.
+
+He thanked me for my honesty, and said that it wasn't what he was looking for. But this is not the end of the story.
+
+## July, 2016 through April, 2017
+
+It was clear that I had wasted my first shot at freelancing. When I think again about those months, I believe they represent a very interesting moment that is worth exploring further.
+
+Why didn't my first attempt work? What exactly did I do wrong, or what didn't I do at all, that could have helped me?
+
+As a matter of fact, a very high percentage of those who try the freelancer journey burns themselves exactly like I did, without any apparent reason. I want to try to identify these reasons.
+
+First of all, I was overqualified and thus had wrong expectations.
+
+Most freelance work is either meant for less qualified personnel, or for people who have done exactly the same thing over and over and hence can provide results quickly and for a fraction of the cost.
+
+In second place, I wasn't looking for the right freelance gigs. Whatever my qualifications are, the reality is that, in my field, the most demanded freelance work is software/web development. I have a scientific training and a researcher education, and was hoping to find freelance work similar to that. I wanted to work as a "freelance engineer", and to work as an engineer and build things, you need time, a lot of time. But this is a role that doesn't exist at all.
+
+It took me a while to realize that what I was really looking for wasn't freelance work. It was remote work.
+
+The distinction between freelance work and remote work is crucial in my personal story. Freelance work is either simple, or repetitive, or both. Clients paying for freelancers do not want to spend a lot of money for a few hours of your work. Remote work, instead, is like a normal job without the advantages of an office (furniture, office mates, etc.) but with a lot more flexibility. I'll circle back to this point in a minute.
+
+The freelance opportunities out there for "researcher/data scientist/machine learning develop" are not engineering positions. These positions are opened by clients that simply want to use something that's off the shelf. They don't want to pay someone to discover new things.
+
+This brutal truth is useful because setting the expectations is the cornerstone in a freelance journey. If you want to be a real scientist, either you do it on your own or you join a company that does research. Freelance work is just to use what other scientists have already uncovered.
+
+The middle ground is to do unpaid research on some cool topic, in your own time, and then provide paid services about that topic once you become so good at it that you can deliver results very quickly.
+
+I know all this because today in one of my businesses we pay freelancers to do exactly that. When we do not have time to implement something that we know exists, we search for a freelancer that has done exactly the same thing in the past and ask him to replicate it in a few hours. We don't want to pay him to do real research and find new things.
+
+Third, I had a problem with the hourly rates.
+
+Clients that use free marketplaces (like UpWork) do not want to pay a lot of money for freelance work. If you want a large salary, consider joining an enterprise or a startup. If you don't want to move, consider doing it remotely, and you can still get a very good wage. But freelance work is different, and it isn't usually overpaid.
+
+There are many reasons for that. I believe two are the most important that you should keep in mind. First, there's a lot of competition from countries where the value of $1 is very high. Second, there are a lot of small entrepreneurs out there with ideas bigger than their pocket, and no real clue about how to do what they want to do. They tend to prefer unqualified but cheap work, especially because they underestimate the complexity of what they want to do. And with so doing, they drive the market down, without knowing.
+
+Back to my story, that year (2016) during summer I decided to put my freelance journey attempt on hold. I had less than one year to deliver my PhD thesis, and above all I felt like I wasn't getting anywhere with that approach.
+
+Months flew away and on April 21, 2017 I delivered my thesis. The same day I moved to a different city. I also decided to take an entire week off.
+
+You can take this point as an imaginary "end of Part I".
+
+## May 1st, 2017
+
+I felt again full of energy and I knew where to direct it: freelancing. I didn't know how or when I would succeed, but I knew I would.
+
+What happened that May 1st is difficult to explain rationally. I really didn't know where to start from, I just knew that I didn't want to spend hours filtering senseless job posts on UpWork. I wanted to target good opportunities.
+
+I decided to send a message to the entrepreneur I had spoken with one year earlier. When he needed somebody, I openly explained that my full-time employment didn't let me devote many hours to work with him.
+
+To send a message to him just out of the blue still feels a bit crazy. The most likely outcome was that the guys didn't even remember me. Furthermore, startups have such a high failure rate that maybe the email address didn't exist anymore.
+
+Anyway, I had nothing to lose. I don't recall the exact wordings, but this is more or less the text I sent him:
+
+_Hi, I hope this message finds you well. I just wanted to let you know that I have completed my previous job, successfully finished my PhD and am now looking for freelance opportunities._
+
+
+## May 15, 2017
+
+I start working with that startup.
+
+Hold on there! What happened during those two weeks?
+
+The founder and CEO of the startup replied to me the same day and said they were looking to add an element to the team. Right during those days! As I too often say, _Lady Luck favors the bold_.
+
+He called me again on Skype, then had the other two developers to interview me. I got the green light from them, and he sent me an offer.
+
+As nice as the story sounds, not everything shined. The offer he sent just confirms everything I said so far. It wasn't a lot of money. We talked about his company (self-funded) and his vision, then he argued that I didn't have any proven experience with the tools that his developers used to build the product. Here we go again: clients that search freelancers want them to be "ready to deliver".
+
+Despite everything, I was super happy and accepted the offer. I thought this was my opportunity to break into freelancing and start building my career. As I recall, I was very excited about it.
+
+In hindsight, that wasn't a breakthrough as I wished. But even more in hindsight, the truth is that there's no breakthrough at all. Things didn't change from day to night. It's persistence and motivation that change things, with enough time.
+
+An important part of my persistence and motivation is made of my "do more than my best" approach. And so I did with this startup: I gave it all I have. I delivered the best code I could. I nailed Jira ticket after Jira ticket, not just quickly, but also with great quality. I tested many times every single line of my code, manually as well as with unit tests.
+
+And it didn't go unnoticed. The CEO told me he wanted to engage me more but couldn't afford a higher income, so he offered me a vesting plan in the company with stock options.
+
+## July, 2017
+
+Part of the agreement I had with my first startup was to get paid through UpWork, not just because that's where I found the job, but also because I was still counting on building a reputation on that platform.
+
+It partially worked. In July I got an offer from another startup, for a short-term project in Machine Learning. The project in itself was quite interesting, except that the client (again, founder of a startup with little fundings) didn't have the foggiest idea about what he was doing.
+
+Just to give some context, at this point I had two freelance projects. One quite stable, about web development, with an agreement of ~20hours/week (startup #1) and one short-term, about machine learning, milestone-based (startup #2).
+
+Like I always do, I gave my best on project #2. The result of the project was a nice chatbot, though it was built with some basic algorithm.
+
+As a result of my work, the founder offered me an unpaid position as CTO, with stock options, in the startup. Two out of two! As you will soon learn, it is common to get such offers from early-stage startups. After many such experiences, my take on the subject is: if the startup is VC-funded and I like the people, then I negotiate the compensation I need, and happily accept stocks in addition. If it's self-funded, then I look at their history. If it's been around for more than 2 years, and I really like the project, then I might accept.
+
+This is my opinion now. Back then I was naive and had already accepted one such offer. Thus I told the founder of startup #2 that I had a similar agreement with another startup, and therefore wasn't looking for a second one. We ended the contract and he gave me a great feedback on UpWork.
+
+I was finally top-rated.
+
+## September, 2017
+
+The summer had brought me a second project, a boost of confidence, and the long-wanted top-rated badge.
+
+Well, the badge didn't really change anything. I kept on having problems in finding "decent" freelance projects, despite my new status as top-rated.
+
+That's when I started losing confidence in UpWork. I knew since day one that it's a free marketplace, hence packed with fake projects, fake freelancers, and in general a lot of...confusion. But my friend's experience (that was now almost two years old in my memory) had given me confidence in it.
+
+Whatever the reason, I lost that confidence. In particular, filtering projects had become very time consuming, now that I also had work to do!
+
+Thus, I started to look for alternatives. I found a few interesting platforms-- still very interesting as of today. Angel list, and Toptal above all.
+
+Angel list is an open platform for people who want to work at startups. It's perfect if you look for remote work (a bit less for freelance work, though). Toptal is a closed network of experienced/skilled individuals who work as freelancers. It's powered by Toptal's employees, who match projects with freelancers. Unlike UpWork, the whole filtering and matching burden is taken away from the freelancer's shoulders. But this comes with a price: being part of the network is not easy. You can read online several stories about it.
+
+In the meantime, startup #1 project, which at that moment was my only project, started to go south. They fire one developer, due to his unreliability. The lead frontend developer also leaves, for a better job. The CEO finds a seemingly good replacement for him, and nominates me lead developer of the project. As flattering as that was, I smell problems.
+
+I decided that Toptal may be good for me. I wasn't afraid of their selection process (the famous top-3% branding), actually quite excited about it. But I knew that I had to revisit some concepts, tools and techniques in order to be well prepared. I set that as my next goal.
+
+## Interlude II
+
+One thing may have gone unnoticed so far in the story, but it has been in the background all time long: _I never stopped learning_.
+
+In 2014, while fully-employed and in my PhD, before registering on Upwork, I completed a very intense class on Machine Learning. After that, one advanced class in Game Theory. I also took classes on frontend development. And several advanced courses on Numerical Optimization. I then learned Django on my own, before using it to work with startup #1. My story about learning is much longer, and so is the list of courses I completed "just because". I told this story in another essay.
+
+I am not saying that you need to continuously learn new things to work as a freelancer. Actually, it's rather the opposite: if you specialize in just one thing and you do it over and over, you will eventually be able to provide it as a service and get paid for it.
+
+The point I am making is that this is how it worked _for me_. I enjoy learning new things. In fact, I enjoy it more than working! And it was a good strategy, eventually.
+
+What that also means is that I had no troubles at all with going back to study some concepts (and fancy algorithms!) to prove my skills needed to join Toptal.
+
+## October, 2017
+
+I officially joined Toptal.
+
+It was a fairly involved process, spanning over three weeks and many interviews. You can find more information about it online.
+
+Take this one as the "end of Part II".
+
+## November, 2017
+
+Things started to roll at very fast speed. If you decide to get into the freelance world, you will soon learn that it is normal. There are times where things go at the speed of light.
+
+Things gets even messier with startup #1. The founder struggles a lot with feedback from early customers. At the same time, he gets fascinated with the Machine Learning hype and decides to dedicate big efforts into transforming the product into a NLP product. To date, I still don't know why he didn't ask me to work on that, considering my scientific expertise. He brings on board another experienced architect instead.
+
+I want to briefly digress on the early customer feedback topic. Now that I have a lot of experience with startups, I can say for sure that most founders are very sensitive to early feedback. The reason is simple: they need to sell. Most founders start a company with the unique goal to make money. To make money, they need to sell. As such, they are willing to expand the product, adding into it whatever new ideas come from a chit-chat with a friend or a potential customer. In 99% of the cases, this process goes on at the expense of the original concept and mission that the product was built around.
+
+With time I discovered that I just can't stand that. I like coherence, and mission-oriented journeys. Mission has much higher importance than selling and money, for me.
+
+If you work at a startup, and go through this process, and it's very frustrating to see that the founder continuously changes the requirements or even the main goals just because a potential investor/customer/friend told him so, then just know it's normal. Good luck.
+
+In November that year something quite interesting happened. I had put my hopes in Toptal and was firmly decided to wait until a good offer came from there. Thanks to that, I stopped searching for common keywords in UpWork, such as "software engineer".
+
+Thus, one day I decided to experiment with less crowded job posts. This seemingly random decision of mine will have a huge impact on my career, for years to follow. I like to say that things don't just happen to me. I make them happen.
+
+After a few attempts, I found an interesting job post when I searched for "Scientific Assistant" -- whatever that means!
+
+The story now assumes fictional appearance. To apply for that job I need to solve a riddle that the company (say, startup #3) included in the job description. Amazingly, years before I had written a Java program that solved that same riddle, with configurable inputs (of course!). I go back to my hard drive and find the code. Compile, run, submit the application.
+
+I get the job, but that's just a small part of this (side)story. I need to jump ahead in time now, to let you know that I have been in touch with this company since then. I had a couple of paid projects, very very interesting. And a lot of interesting chats with the CEO, a very interesting person. He openly told me they can't afford too many hours of my work. No problem, I replied (this was in late 2018, when I was already working with MSI, see below). Then one day (in 2019) I took him by surprise calling him on Skype and telling him that if he had interesting and slow-paced projects then I could do some work for free, for the sake of learning. He's amazed, as he knows that by that time my hourly rate was very high. As I said again and again, _things do not just happen_: I take actions to make them happen. I can't but smile when I recall his face on hearing the words "work for free" coming out of my mouth. This digression could continue for a while, but just know that we work on something interesting for a while, and then he offers me an technology officer position (in 2020), with great options in the company.
+
+## December, 2017
+
+Startup #1 gets into problems with the frontend developer. Quite frankly, he was an unreliable person. Working remotely demands some very specific skills of self-accounting, that not everybody has. They fire him.
+
+They ask me how we could continue now. I had no idea! Long story short, they decide to hire an external agency and ask me to manage them. They also confirm my stock options, but stop paying me altogether, in a cash crunch.
+
+At the beginning of that month I also got my first project with Toptal. Whoa! It's a very interesting development project, for a data science agency.
+
+Thus, by the end of the year, I am working as a freelancer on three projects. Startup #1, with no pay and that doesn't keep me motivated, but I have options. Startup #3, which is a very interesting project, well paid but can only afford to pay me for a few hours. And the project coming from Toptal, well paid but scheduled to last one or two months.
+
+All in all, my position that December is a very good one for a freelancer. Two well-paid projects, and stock options in another one, all at the same time, is a (positively) uncommon situation.
+
+## End of January, 2018
+
+Everything goes as expected in the first month of that year.
+
+I give my best and even more for my first Toptal's project. The client is delighted when I complete it in less hours than he expected and he tells me "I'd be happy to refer you". On the other hand, the job ends.
+
+The projects with startup #3 are on hold. They cannot spend too much money in R&D. It doesn't bother me anyway. I consider myself lucky that I even found one real R&D freelance project.
+
+The project with startup #1 doesn't require me a lot of work. I follow up with the developers agency and that's it.
+
+Everything is quiet, and it feels like a good moment to use my time for something interesting.
+
+## February, 2018
+
+I go on a road trip.
+
+It doesn't have anything to do with freelancing, but interesting things happen when travelling. I wanted to meet somebody in Grenoble, France, and I decided to make it a four weeks trip starting from Bruxelles, Belgium, with a detour through Paris, Bordeaux, Marseilles, Lyon.
+
+## March, 2018
+
+While I am on the road, I get an interview request, via Toptal, from Motorola Solutions. That's insane!
+
+I was in a hotel in Lyon when my Toptal contact informed me that they want to schedule a call with me at 4.45am my time (they are in Chicago, IL). _Of course, no problem_-- I say. I still remember the cleaning personnel in the hotel that looked at me weirdly while I spoke in English to my computer.
+
+I get the position, which is scheduled to start on March 15, with part-time commitment. That's just a dream. I am incredibly excited about this, but still need to finish my French trip!
+
+## April through June, 2018
+
+Working with Motorola, remotely and part-time, is just great. It's not the most technically challenging job ever, but I love to be part of a large team, with the big flexibility given by the remote location and the part-time commitment.
+
+At the same time, I am also spending a few hours on other projects. But most importantly, I am spending the remaining half of my waking day doing a lot of interesting things. Those were the months when I got the entire Data Science specialization from Johns' Hopkins, the Deep Learning specialization from Stanford. I also wrote a new programming language from scratch, ran a marathon, and a few more things. Of course, all this didn't happen in three months only; I fast forwarded you again, circa November, 2019.
+
+## July, 2018
+
+Motorola Solutions asks me full-time
+
+I am aware this will reduce my personal time a lot, as well as declining other projects, but I am very honored with the offer and happily accept. Also, I had learnt so much since the day I registered on UpWork, especially about myself. I understood that remote (non-freelance) work was what I really wanted right then.
+
+And thus my freelance journey ended.
+
+
+## Retrospective and Comeback
+
+The reason why I decided to write this piece is mainly to see if any pattern arised. Any key decision, secret sauce, or just anything that mattered a lot and that could be shared with others interested in pursuing a similar career.
+
+In retrospect though, there was no secret sauce. There wasn't something that mattered a lot, because _everything mattered_.
+
+To be a freelancer really means that you're your own boss. The good part is that you get to make decisions. But you also have to cover the duties of a boss, mainly progress-check, internal evaluation and, above all, business direction.
+
+What projects to take, and what to decline? How much to work, and when to take breaks? When to learn something new?
+
+I look back at my journey and I see mainly one trait: consistency.
+
+I knew it was possible to achieve good results, hence I kept trying. I decided to start small but also gave myself a fixed amount of time before shooting higher, and so I did. I wanted to work as an engineer/scientist, not as a "developer", and so I did. I wanted to build my career with continuous learning, and that's what I did.
+
+Whether it's consistency, or plain arrogance and stubbornness, it's up to you to decide. The objective fact is that I stuck with my plan, and it worked out well.
+
+Thus, if I had to give only one piece of advice, I'd tell you:
+
+**Stick with your beliefs**
+
+What are you in the game for?
+
+I was in the game for two components: freedom and learning. I knew I could not achieve freedom by accepting too many projects, nor by accepting projects I didn't like. I knew I didn't want to accept work where my educational background and past experience wasn't recognized, both in words and in money. And I knew that I would stop learning if I accepted to work on things I already knew by heart, just for the sake of being paid. For me, to stop learning is to stop living.
+
+Once I knew what I was in the game for, decisions were made easily.
+
+At this point the hot question is surely: _why did I stop?_ Well, things in life change. And not only I am not afraid of changes, I actually like them. I think there's always a possibility to turn any change for the better.
+
+Freedom and learning are beautiful things, but there's one thing they take away: time. Learning takes time and freedom is...a very complicated concept. Freedom as a freelancer in particular is even more complicated. I did a lot of interesting things in my free time when I was a freelancer, and I loved that.
+
+Eventually though, the "engineer inside me" enjoys having more time to build great things. And one thing is sure: freelance projects are very fast paced. Quick results and deliverables are required. Engineering work demands time, if you want to do it well. I am well aware that most enterprises put pressure and do not give enough time to their engineers, usually due to business' lack of understanding. Here again my persistence helped, in that even as a remote engineer I only accepted jobs where I knew I could build things well and learn new things in the process.
+
+Freelancing brings in a lot of adrenaline. I was really racing in the wild, and it felt great. But I also enjoy slower paced work, and the feeling of deep focus it brings.
+
+At the end of the day, each way has its own pros and cons. I enjoy both, and don't exclude a comeback.
+
