@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>education on Pietro Grandinetti Personal Website</title>
+    <title>education on Pietro Grandinetti</title>
     <link>https://pete.world/tags/education/</link>
-    <description>Recent content in education on Pietro Grandinetti Personal Website</description>
+    <description>Recent content in education on Pietro Grandinetti</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pete.world/tags/education/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>Useful MOOCs</title>
-      <link>https://pete.world/post/moocs/</link>
+      <link>https://pete.world/blog/2020/05/moocs/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pete.world/post/moocs/</guid>
+      <guid>https://pete.world/blog/2020/05/moocs/</guid>
       <description>I found MOOCs very useful throughout my career. But I didn&amp;rsquo;t use them to land new jobs, not in a direct way.
 It&amp;rsquo;s more about the power they give me to communicate with people about new and interesting subjects. They are useful because they enable high level conversations between people with interesting ideas.
 Why? I believe in education. I believe that education matters a lot in life, and that it can change the world, whereas money can&amp;rsquo;t (though it can be used to foster education).</description>
@@ -24,10 +24,10 @@ Why? I believe in education. I believe that education matters a lot in life, and
     
     <item>
       <title>Why Education Matters to Freelancers</title>
-      <link>https://pete.world/post/education/</link>
+      <link>https://pete.world/blog/2020/03/education/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pete.world/post/education/</guid>
+      <guid>https://pete.world/blog/2020/03/education/</guid>
       <description>I thought that highly educated professionals had a hard time finding freelance work. I was wrong. Years later, I have a story to prove it.
 What is it that makes an overqualified freelancer appetible to business? What makes entrepreneurs willing to pay the higher rates of freelancers who are PhD, Dr. and more?
 If I were to start all over again, what things would I do again because they were proven right, and what mistakes would I want to avoid?</description>

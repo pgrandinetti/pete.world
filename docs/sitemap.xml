@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pete.world/blog/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pete.world/tags/essays/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://pete.world/post/journey/</loc>
+    <loc>https://pete.world/blog/2020/07/freelancer/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +28,12 @@
   </url>
   
   <url>
-    <loc>https://pete.world/post/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pete.world/tags/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pete.world/post/mindshift/</loc>
+    <loc>https://pete.world/blog/2020/05/mindshift/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,27 +43,22 @@
   </url>
   
   <url>
-    <loc>https://pete.world/post/moocs/</loc>
+    <loc>https://pete.world/blog/2020/05/moocs/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pete.world/post/mentor/</loc>
+    <loc>https://pete.world/blog/2020/05/mentor/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pete.world/post/education/</loc>
+    <loc>https://pete.world/blog/2020/03/education/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pete.world/page/about/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pete.world/page/</loc>
+    <loc>https://pete.world/about/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
