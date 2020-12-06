@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "The Hamster-Writer Loop"
-date: 2020-11-29
+date: 2020-12-05
 description: "The art of writing is comparable to the science of engineering, when both the writer and the engineer put quality in front of everything else."
 tags: ["essays"]
 slug: "loop"

@@ -16,11 +16,11 @@ pluralizelisttitles = false
 [permalinks]
 blog  = "blog/:year/:month/:slug/"
 
-[[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
+#[[menu.main]]
+#name                   = "Blog"
+#weight                 = -120
+#identifier             = "blog"
+#url                    = "/blog/"
 
 [[menu.main]]
 name                   = "About"
