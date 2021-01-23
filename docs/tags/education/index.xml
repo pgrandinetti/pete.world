@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>education on Pietro Grandinetti</title>
@@ -6,11 +6,7 @@
     <description>Recent content in education on Pietro Grandinetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pete.world/tags/education/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pete.world/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Useful MOOCs</title>
       <link>https://pete.world/blog/2020/05/moocs/</link>

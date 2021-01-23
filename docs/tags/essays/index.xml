@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>essays on Pietro Grandinetti</title>
@@ -6,10 +6,17 @@
     <description>Recent content in essays on Pietro Grandinetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pete.world/tags/essays/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pete.world/tags/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: The Coaching Habit</title>
+      <link>https://pete.world/blog/2021/01/review-coaching-habit/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pete.world/blog/2021/01/review-coaching-habit/</guid>
+      <description>At times, a book falls in your hands as if it was no coincidence.
+This is pretty much what happened to me with The Coaching Habit (M.B. Stanier). Great book, for the records.
+As it happened, I have been thinking a lot recently about management, business direction, and what motivates people at work. Then, on one of the last days of 2020, I received a note about this book in the newsletter sent by the instructors of the MOOC Learning to Learn.</description>
+    </item>
     
     <item>
       <title>The Hamster-Writer Loop</title>
