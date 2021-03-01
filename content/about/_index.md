@@ -16,11 +16,9 @@ It often changes. I have a file with a bunch of famous quotes that I try to reme
 
 > _All of humanity’s problems stem from man’s inability to sit quietly in a room alone._ --B. Pascal
 
-I am a big fan of silence. I am puzzled about why people spend so much time immersed in noisy low quality content when there are so many interesting things to learn.
-
 ## Contact
 
-I am not easy to reach. For reasons obvious to those who read this far on the page, you won't find me in social networks. Your best bet is LinkedIn. Good luck.
+I am not easy to reach. If you've read thus far on the page, then you understand that I don't use social networks. Your best bet is LinkedIn. Good luck.
 
 Keep learning!
 
